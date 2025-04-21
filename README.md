@@ -1,1 +1,1 @@
-# personal-library-manager
+A simple and intuitive web app built with Python and Streamlit to help users organize and manage their personal book collections. Features include adding and editing book details, filtering by genre or author, and tracking reading progress—all in a clean, interactive interface.
